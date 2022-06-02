@@ -1,5 +1,5 @@
-# Machine Learning para bioinformatica
-Material del curso de A2B2C
+# Machine Learning course
+Compilado de datasets de uso libre para aplicaciones con aprendizaje automático
 
 
 **Datasets**
